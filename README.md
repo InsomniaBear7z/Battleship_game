@@ -8,7 +8,7 @@ Dự án áp dụng các nguyên lý Lập trình hướng đối tượng (OOP)
 - Giao diện đồ họa và hiệu ứng âm thanh đầy đủ.
 - Tự động lưu trữ lịch sử trận đấu.
 
-## 🚀 Hướng dẫn cài đặt
+## 🚀 🎶Hướng dẫn cài đặt
 1. Yêu cầu hệ thống cài đặt Python 3.12.
 2. Cài đặt thư viện: `pip install pygame`
 3. Chạy game: `python main.py`
