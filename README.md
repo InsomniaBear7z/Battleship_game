@@ -4,7 +4,7 @@ Một tựa game chiến thuật Battleship được phát triển bằng Python
 Dự án áp dụng các nguyên lý lập trình hướng đối tượng (OOP) và tích hợp thuật toán AI dò đường cơ bản.
 
 ## 🎮🤑 Tính năng nổi bật
-- Chế độ EasyAI(chế độ dễ) (Bắn ngẫu nhiên) và TuffAi(chế độ khó)
+- Chế độ EasyAI(chế độ dễ) (Bắn ngẫu nhiên) và TuffAI(chế độ khó)
 - Giao diện đồ họa và hiệu ứng âm thanh đầy đủ.
 - Tự động lưu trữ lịch sử trận đấu.
 
